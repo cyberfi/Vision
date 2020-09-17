@@ -9,13 +9,13 @@ CYFI is the first Decentralised Autonomous Organisation (DAO) to bring full tran
 CYFI will first be launched as an ERC20 token and will later be interconnected to the Polkadot chain Blockchain through the Moonbeam protocol, by using Moonbeam.network, CyberFinance is not restricted to current technologies and give us flexibility between multiple blockchains going into the future, Moonbeam is based on Substrate and gives CYFI the full power to work on future proof protocols for finance.
 
 # Cyber Finance Infrastructure
-Cyber Yield Farming™ (eta. September 2020)
-Cyber Vaults™ (eta. October 2020)
-Cyber Swap™ (eta. October 2020)
-Cyber Lending™ (eta. November 2020)
-Cyber Deriviates™ (early Q1 2021)
-Cyber Marketplace™ (Q1 2021)
-Cyber Banking™ (Q2 2021)
+- Cyber Yield Farming™ (eta. September 2020)
+- Cyber Vaults™ (eta. October 2020)
+- Cyber Swap™ (eta. October 2020)
+- Cyber Lending™ (eta. November 2020)
+- Cyber Deriviates™ (early Q1 2021)
+- Cyber Marketplace™ (Q1 2021)
+- Cyber Banking™ (Q2 2021)
 
 All estimated timeframes are taken conservatively, as the Decentralised Finance space is currently experiencing explosive growth (in development) it may mean that some solutions will be available earlier than expected.
 With the completion of these essential services Cyber will bring the first ever vision of a financially decentralised infrastructure to fruition, users will be able to enjoy the ease of working with a fully decentralised package and could effectively replace it with the services they currently use financially. In the design of Cyber our users will be able to collectively decide what features and or solutions will be built and released to meet demand of the quickly moving space.
@@ -26,16 +26,16 @@ The distribution is as follows :
 #70,000 CYFI | Team Tokens
 10% Of CYFI supply will be distributed to the team over the period of one year, tokens are used for development and marketing costs.
 
-# 70,000 CYFI | Vault Rewards
+- 70,000 CYFI | Vault Rewards
 The Vault rewards are distributed over the period of one year, this means that it will take 365 days for the full amount of tokens to be distributed.
 
-# 210,000 CYFI | Yield Farming Rewards
+- 210,000 CYFI | Yield Farming Rewards
 30% Of CYFI supply is dedicated to be rewards claimed from farming, We dedicate this % to promote equal distribution and kickstart the protocol.
 
-# 350,000 CYFI | Seed Sale
+- 350,000 CYFI | Seed Sale
 For the most fair form of distribution we use a seed sale with a limited cap per wallet for Fair distribution of CYFI. 50% is dedicated to the sale, more info on this sale will follow soon. 50% of funds raised will be put towards liquidity, 50% preserved for Development of infrastructure.
 
-# Seed Sale Details :
+- Seed Sale Details :
 Rate : 1 ETH = 500 CYFI
 Cap : 10 ETH Address Limit.
 If any tokens are unsold the unsold tokens will be distributed to buyers according to purchase size.

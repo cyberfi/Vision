@@ -43,8 +43,10 @@ For the most fair form of distribution we use a seed sale with a limited cap per
 # Seed Sale Details :
 * Rate : 1 ETH = 500 CYFI
 * Cap : 10 ETH Address Limit.
+* 700 ETH Hard Cap
 * If any tokens are unsold the unsold tokens will be distributed to buyers according to purchase size.
 * Sale Announcement Coming Soon, look out for socials.
+
 
 # Cyber Yield Farming
 Yield farming is the hottest thing in Decentralised Finance right now, but it is not accessible to everyone. In this time of extreme hype, big players are taking advantage of the smaller decentralised finance pioneers and use their size advantage to transfer wealth into their own pockets by participating in shady pump and dump schemes and other manipulations. Unfortunately this often leaves the investor without the deep technical and or financial knowledge at a sharp disadvantage.

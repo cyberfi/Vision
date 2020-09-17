@@ -25,18 +25,22 @@ There will never be more than 700,000 CYFI tokens in circulation, 1% of every tr
 The distribution is as follows :
 
 - 70,000 CYFI | Team Tokens
-* 10% Of CYFI supply will be distributed to the team over the period of one year, tokens are used for development and marketing costs.
+
+10% Of CYFI supply will be distributed to the team over the period of one year, tokens are used for development and marketing costs.
 
 - 70,000 CYFI | Vault Rewards
-* The Vault rewards are distributed over the period of one year, this means that it will take 365 days for the full amount of tokens to be distributed.
+
+The Vault rewards are distributed over the period of one year, this means that it will take 365 days for the full amount of tokens to be distributed.
 
 - 210,000 CYFI | Yield Farming Rewards
-* 30% Of CYFI supply is dedicated to be rewards claimed from farming, We dedicate this % to promote equal distribution and kickstart the protocol.
+
+30% Of CYFI supply is dedicated to be rewards claimed from farming, We dedicate this % to promote equal distribution and kickstart the protocol.
 
 - 350,000 CYFI | Seed Sale
-* For the most fair form of distribution we use a seed sale with a limited cap per wallet for Fair distribution of CYFI. 50% is dedicated to the sale, more info on this sale will follow soon. 50% of funds raised will be put towards liquidity, 50% preserved for Development of infrastructure.
 
-- Seed Sale Details :
+For the most fair form of distribution we use a seed sale with a limited cap per wallet for Fair distribution of CYFI. 50% is dedicated to the sale, more info on this sale will follow soon. 50% of funds raised will be put towards liquidity, 50% preserved for Development of infrastructure.
+
+# Seed Sale Details :
 * Rate : 1 ETH = 500 CYFI
 * Cap : 10 ETH Address Limit.
 * If any tokens are unsold the unsold tokens will be distributed to buyers according to purchase size.

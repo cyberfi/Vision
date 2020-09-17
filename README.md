@@ -23,7 +23,8 @@ With the completion of these essential services Cyber will bring the first ever 
 # Tokenomics
 There will never be more than 700,000 CYFI tokens in circulation, 1% of every transaction gets burned, with a max of 50 CYFI burnt per transaction.
 The distribution is as follows :
-#70,000 CYFI | Team Tokens
+
+- 70,000 CYFI | Team Tokens
 10% Of CYFI supply will be distributed to the team over the period of one year, tokens are used for development and marketing costs.
 
 - 70,000 CYFI | Vault Rewards

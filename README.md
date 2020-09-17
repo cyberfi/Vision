@@ -61,4 +61,5 @@ Cyber Foundation in its developments is not limited to Financial Products, our v
 Our products are purely motivated by our vision and not by monetary motives, in the future as Cyber's influence grows we strive to deliver Governmental Solutions for countries and societies. Our vision includes the integration of blockchain in almost every aspect of government. A government should not serve itself but its people, Cyber Foundation will be a platform for change and we strive to deliver an entirely working ecosystem for Financial Products to meet the demands of a daily financial experience by Q2 2021, with the start of Yield Mining, interoperable swaps coming as early as the end of September 2020. Fair Governance solutions and protocols will be available as early as Q4 2021, the protocols we are currently planning for are an election protocol, on chain fact checking/ authority and a toolkit to integrate existing technologies with blockchain, think about registries, public information and equal justice. You are the leader of this world as much as anybody else on this globe, you deserve to know and you deserve to choose.
 
 Sincerely,
-Cyber Foundation - cyberfoundation.io
+The Cyber Foundation - 
+cyberfoundation.io

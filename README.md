@@ -41,11 +41,15 @@ The Vault rewards are distributed over the period of one year, this means that i
 For the most fair form of distribution we use a seed sale with a limited cap per wallet for Fair distribution of CYFI. 50% is dedicated to the sale, more info on this sale will follow soon. 50% of funds raised will be put towards liquidity, 50% preserved for Development of infrastructure.
 
 # Seed Sale Details :
-* Rate : 1 ETH = 500 CYFI
-* Cap : 10 ETH Address Limit.
-* 700 ETH Hard Cap
-* If any tokens are unsold the unsold tokens will be distributed to buyers according to purchase size.
-* Sale Announcement Coming Soon, look out for socials.
+Seed Sale Details :
+* Round 1 : 200ETH
+1 ETH = 500 CYFI
+* Round 2 : 500ETH
+1 ETH = 300 CYFI
+* 10 ETH Address Limit.
+If any tokens go unsold the unsold tokens will be distributed to buyers according to purchase size.
+
+Sale Announcement Coming Soon, please look out for announcements on our socials.
 
 
 # Cyber Yield Farming

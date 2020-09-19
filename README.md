@@ -23,22 +23,37 @@ With the completion of these essential services Cyber will bring the first ever 
 # Tokenomics
 There will never be more than 700,000 CYFI tokens in circulation, 1% of every transaction gets burned, with a max of 50 CYFI burnt per transaction.
 The distribution is as follows :
+14,000 CYFI | Team Tokens (2%)
+2% Of CYFI supply will be distributed to the team,
 
-- 70,000 CYFI | Team Tokens
+Tokens are used for development and marketing costs.
 
-10% Of CYFI supply will be distributed to the team over the period of one year, tokens are used for development and marketing costs.
 
-- 70,000 CYFI | Vault Rewards
+* 126,000 CYFI | Liquidity Tokens (18%)
+8% Of CYFI supply will be added to the liquidity pool at UniSwap with the rate of
 
-The Vault rewards are distributed over the period of one year, this means that it will take 365 days for the full amount of tokens to be distributed.
+126,000 CYFI : (Total Seed Sale/ 2) ETH. All liquidity will be locked after seed sale.
 
-- 210,000 CYFI | Yield Farming Rewards
 
-30% Of CYFI supply is dedicated to be rewards claimed from farming, We dedicate this % to promote equal distribution and kickstart the protocol.
+* 70,000 CYFI | Vault Rewards (10%)
+The Vault rewards are distributed over the period of one year,
 
-- 350,000 CYFI | Seed Sale
+this means that it will take 365 days for the full amount of tokens to be distributed.
 
-For the most fair form of distribution we use a seed sale with a limited cap per wallet for Fair distribution of CYFI. 50% is dedicated to the sale, more info on this sale will follow soon. 50% of funds raised will be put towards liquidity, 50% preserved for Development of infrastructure.
+
+
+* 140,000 CYFI | Yield Farming Rewards (20%)
+20% Of CYFI supply is dedicated to the rewards claimed from farming,
+
+We dedicate this % to promote equal distribution and kickstart the protocol.
+
+
+
+* 350,000 CYFI | Seed Sale (50%)
+For the most fair form of distribution we use a seed sale with a limited cap per wallet for
+
+Fair distribution of CYFI.  50% is dedicated to the sale, more info will follow soon.
+
 
 # Seed Sale Details :
 Seed Sale Details :

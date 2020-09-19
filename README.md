@@ -42,10 +42,12 @@ For the most fair form of distribution we use a seed sale with a limited cap per
 
 # Seed Sale Details :
 Seed Sale Details :
-* Round 1 : 200ETH
+*Early Investors : 100 ETH= 60,000 CYFI
+1 ETH = 600 CYFI
+*Round 1 : 300 ETH= 150,000 CYFI
 1 ETH = 500 CYFI
-* Round 2 : 500ETH
-1 ETH = 300 CYFI
+*Round 2 : 400ETH = 140,000 CYFI
+1 ETH = 350 CYFI
 * 10 ETH Address Limit.
 If any tokens go unsold the unsold tokens will be distributed to buyers according to purchase size.
 
